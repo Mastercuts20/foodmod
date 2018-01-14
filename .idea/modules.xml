@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foodmod.iml" filepath="$PROJECT_DIR$/foodmod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodmod_api.iml" filepath="$PROJECT_DIR$/.idea/modules/foodmod_api.iml" group="foodmod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodmod_main.iml" filepath="$PROJECT_DIR$/.idea/modules/foodmod_main.iml" group="foodmod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foodmod_test.iml" filepath="$PROJECT_DIR$/.idea/modules/foodmod_test.iml" group="foodmod" />
+    </modules>
+  </component>
+</project>
